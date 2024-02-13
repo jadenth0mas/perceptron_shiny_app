@@ -1,7 +1,6 @@
 # Get dependencies
 library(shiny)
 library(tidyverse)
-library(pROC)
 library(shinythemes)
 
 # Get perceptron functions
