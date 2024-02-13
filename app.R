@@ -122,8 +122,8 @@ server <- function(input, output) {
         "Predicted: Setosa"
       }
     } else if(input$selected=="Create Data") {
-      
-      if (perceptronPredict(data.frame(input$x1, input$x2), perc1$weights)<0) {
+      x <- create_data()
+      if (perceptronPredict(data.frame(input$x1, input$x2), x[[2]]$weights)<0) {
         "Predicted: -1"
       } else {
         "Predicted: 1"

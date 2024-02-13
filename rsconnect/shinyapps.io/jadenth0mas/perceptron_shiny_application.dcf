@@ -1,0 +1,10 @@
+name: perceptron_shiny_application
+title:
+username: jadenth0mas
+account: jadenth0mas
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11209713
+bundleId: 8249287
+url: https://jadenth0mas.shinyapps.io/perceptron_shiny_application/
+version: 1
