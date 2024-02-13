@@ -1,6 +1,7 @@
 # Perceptron Shiny Application
 
 **Table of Contents:**<br>
+-- [Deployed App](#deploy)<br>
 -- [Tools Used](#item-one)<br>
 -- [Problem Description](#item-two)<br>
 -- [Application Description](#item-three)<br>
@@ -11,12 +12,17 @@
 -- [Conclusion](#item-eight)<br>
 -- [Sources](#item-nine)<br>
 
+<a id ="deploy"></a>
+
+## Deployed Application
+
+https://jadenth0mas.shinyapps.io/perceptron_shiny_application/
 
 <a id="item-one"></a>
 
 ## Tools Used
 
-The tools used for this project are R and RShiny.
+The tools used for this project are R, RShiny and shinyapps.io.
 
 The R library dependencies are shiny, tidyverse, shinythemes, geometry, and ggthemes.
 
